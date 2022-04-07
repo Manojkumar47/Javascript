@@ -1,0 +1,24 @@
+NOW YOU SEE ME
+
+var, Let , Const
+
+Scope and 
+
+-Function Currying
+
+-Closure
+
+-Polyfill
+
+-Event Delegation
+
+
+Functional programming
+
+Higher order function vs Callback function
+
+Debouncing
+
+Throttling
+
+IIFE
